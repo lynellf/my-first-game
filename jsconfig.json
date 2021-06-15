@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/GameState/*": ["game/gameState/*"],
+      "@/pages/*": ["pages/*"],
+      "@/styles/*": ["styles/*"],
+      "@/game/*": ["/game/*"]
+    }
+  }
+}
